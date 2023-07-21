@@ -4,7 +4,10 @@ import Navbar from './Navbar';
 
 function App() {
   return (
-    <Navbar></Navbar>
+    // Navbar
+    <div className="navbar"> <Navbar></Navbar></div>
+      
+ 
   );
 }
 
